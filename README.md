@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sheetalc818/MyFirst_AzurePipeline/_apis/build/status/sheetalc818.pipelines-java?branchName=master)](https://dev.azure.com/sheetalc818/MyFirst_AzurePipeline/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
